@@ -1,0 +1,17 @@
+git add style.css script.js 
+ 1368  git status
+ 1369  git log
+ 1370  git commit -m "Updated style.css and script.js"
+ 1371  clear
+ 1372  nano index.html 
+ 1373  git checkout -- index.html
+ 1374  git status
+ 1375  cat index.html 
+ 1376  touch log.txt
+ 1377  mkdir dir1 dir2
+ 1378  touch dir1/file1.txt dir2/file2.txt
+ 1379  echo "log.txt" >> .gitignore
+ 1380  echo "dir1/" >> .gitignore
+ 1381  git add .
+ 1382  git status
+ 1383  git commit -m "Added gitignore, log.txt, dir1, and dir2"
