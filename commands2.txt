@@ -1,0 +1,8 @@
+ 1338  nano style.css
+ 1339  nano script.js 
+ 1340  clear
+ 1341  git reset HEAD style.css
+ 1342  git status
+ 1343  git commit -m "Updated index.html with changes"
+ 1344  git commit -m "Updated CSS and JavaScript files"
+ 1345  ls
